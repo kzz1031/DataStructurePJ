@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>shanghai.osm</file>
+        <file>chengdu.osm</file>
+        <file>chengdu2.osm</file>
+        <file>map3.osm</file>
+        <file>walk.png</file>
+        <file>object.png</file>
+        <file>light.png</file>
+        <file>night.png</file>
+        <file>reload.png</file>
+        <file>pen.png</file>
+        <file>hospital.png</file>
+        <file>home.jpg</file>
+        <file>object2.png</file>
+        <file>shanghai_2.osm</file>
+        <file>china.png</file>
+        <file>quit.jpg</file>
+        <file>exit.png</file>
+        <file>coor.png</file>
+        <file>road.png</file>
+        <file>M.png</file>
+    </qresource>
+</RCC>
